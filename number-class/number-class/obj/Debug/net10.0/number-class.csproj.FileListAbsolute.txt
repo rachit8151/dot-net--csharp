@@ -1,0 +1,14 @@
+D:\DotNetCore\number-class\number-class\bin\Debug\net10.0\number-class.exe
+D:\DotNetCore\number-class\number-class\bin\Debug\net10.0\number-class.deps.json
+D:\DotNetCore\number-class\number-class\bin\Debug\net10.0\number-class.runtimeconfig.json
+D:\DotNetCore\number-class\number-class\bin\Debug\net10.0\number-class.dll
+D:\DotNetCore\number-class\number-class\bin\Debug\net10.0\number-class.pdb
+D:\DotNetCore\number-class\number-class\obj\Debug\net10.0\number-class.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCore\number-class\number-class\obj\Debug\net10.0\number-class.AssemblyInfoInputs.cache
+D:\DotNetCore\number-class\number-class\obj\Debug\net10.0\number-class.AssemblyInfo.cs
+D:\DotNetCore\number-class\number-class\obj\Debug\net10.0\number-class.csproj.CoreCompileInputs.cache
+D:\DotNetCore\number-class\number-class\obj\Debug\net10.0\number-class.dll
+D:\DotNetCore\number-class\number-class\obj\Debug\net10.0\refint\number-class.dll
+D:\DotNetCore\number-class\number-class\obj\Debug\net10.0\number-class.pdb
+D:\DotNetCore\number-class\number-class\obj\Debug\net10.0\number-class.genruntimeconfig.cache
+D:\DotNetCore\number-class\number-class\obj\Debug\net10.0\ref\number-class.dll

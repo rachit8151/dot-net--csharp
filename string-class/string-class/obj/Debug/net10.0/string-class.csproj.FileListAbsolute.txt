@@ -1,0 +1,14 @@
+D:\DotNetCore\string-class\string-class\bin\Debug\net10.0\string-class.exe
+D:\DotNetCore\string-class\string-class\bin\Debug\net10.0\string-class.deps.json
+D:\DotNetCore\string-class\string-class\bin\Debug\net10.0\string-class.runtimeconfig.json
+D:\DotNetCore\string-class\string-class\bin\Debug\net10.0\string-class.dll
+D:\DotNetCore\string-class\string-class\bin\Debug\net10.0\string-class.pdb
+D:\DotNetCore\string-class\string-class\obj\Debug\net10.0\string-class.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCore\string-class\string-class\obj\Debug\net10.0\string-class.AssemblyInfoInputs.cache
+D:\DotNetCore\string-class\string-class\obj\Debug\net10.0\string-class.AssemblyInfo.cs
+D:\DotNetCore\string-class\string-class\obj\Debug\net10.0\string-class.csproj.CoreCompileInputs.cache
+D:\DotNetCore\string-class\string-class\obj\Debug\net10.0\string-class.dll
+D:\DotNetCore\string-class\string-class\obj\Debug\net10.0\refint\string-class.dll
+D:\DotNetCore\string-class\string-class\obj\Debug\net10.0\string-class.pdb
+D:\DotNetCore\string-class\string-class\obj\Debug\net10.0\string-class.genruntimeconfig.cache
+D:\DotNetCore\string-class\string-class\obj\Debug\net10.0\ref\string-class.dll

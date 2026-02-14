@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNetCore\\string-class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEEA7013-DD2E-484F-0B78-2F27618B8B49}|string-class\\string-class.csproj|d:\\dotnetcore\\string-class\\string-class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEEA7013-DD2E-484F-0B78-2F27618B8B49}|string-class\\string-class.csproj|solutionrelative:string-class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\string-class\\string-class\\Program.cs",
+              "RelativeDocumentMoniker": "string-class\\Program.cs",
+              "ToolTip": "D:\\DotNetCore\\string-class\\string-class\\Program.cs",
+              "RelativeToolTip": "string-class\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T12:08:51.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
