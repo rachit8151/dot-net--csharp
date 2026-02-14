@@ -1,0 +1,15 @@
+D:\DotNetCore\loops-class\loops-class\bin\Debug\net10.0\loops-class.exe
+D:\DotNetCore\loops-class\loops-class\bin\Debug\net10.0\loops-class.deps.json
+D:\DotNetCore\loops-class\loops-class\bin\Debug\net10.0\loops-class.runtimeconfig.json
+D:\DotNetCore\loops-class\loops-class\bin\Debug\net10.0\loops-class.dll
+D:\DotNetCore\loops-class\loops-class\bin\Debug\net10.0\loops-class.pdb
+D:\DotNetCore\loops-class\loops-class\obj\Debug\net10.0\loops-class.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCore\loops-class\loops-class\obj\Debug\net10.0\loops-class.AssemblyInfoInputs.cache
+D:\DotNetCore\loops-class\loops-class\obj\Debug\net10.0\loops-class.AssemblyInfo.cs
+D:\DotNetCore\loops-class\loops-class\obj\Debug\net10.0\loops-class.csproj.CoreCompileInputs.cache
+D:\DotNetCore\loops-class\loops-class\obj\Debug\net10.0\loops-class.sourcelink.json
+D:\DotNetCore\loops-class\loops-class\obj\Debug\net10.0\loops-class.dll
+D:\DotNetCore\loops-class\loops-class\obj\Debug\net10.0\refint\loops-class.dll
+D:\DotNetCore\loops-class\loops-class\obj\Debug\net10.0\loops-class.pdb
+D:\DotNetCore\loops-class\loops-class\obj\Debug\net10.0\loops-class.genruntimeconfig.cache
+D:\DotNetCore\loops-class\loops-class\obj\Debug\net10.0\ref\loops-class.dll

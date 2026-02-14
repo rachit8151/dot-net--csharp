@@ -1,0 +1,15 @@
+D:\DotNetCore\conditional-logic-class\conditional-logic-class\bin\Debug\net10.0\conditional-logic-class.exe
+D:\DotNetCore\conditional-logic-class\conditional-logic-class\bin\Debug\net10.0\conditional-logic-class.deps.json
+D:\DotNetCore\conditional-logic-class\conditional-logic-class\bin\Debug\net10.0\conditional-logic-class.runtimeconfig.json
+D:\DotNetCore\conditional-logic-class\conditional-logic-class\bin\Debug\net10.0\conditional-logic-class.dll
+D:\DotNetCore\conditional-logic-class\conditional-logic-class\bin\Debug\net10.0\conditional-logic-class.pdb
+D:\DotNetCore\conditional-logic-class\conditional-logic-class\obj\Debug\net10.0\conditional-logic-class.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCore\conditional-logic-class\conditional-logic-class\obj\Debug\net10.0\conditional-logic-class.AssemblyInfoInputs.cache
+D:\DotNetCore\conditional-logic-class\conditional-logic-class\obj\Debug\net10.0\conditional-logic-class.AssemblyInfo.cs
+D:\DotNetCore\conditional-logic-class\conditional-logic-class\obj\Debug\net10.0\conditional-logic-class.csproj.CoreCompileInputs.cache
+D:\DotNetCore\conditional-logic-class\conditional-logic-class\obj\Debug\net10.0\conditional-logic-class.sourcelink.json
+D:\DotNetCore\conditional-logic-class\conditional-logic-class\obj\Debug\net10.0\conditional-logic-class.dll
+D:\DotNetCore\conditional-logic-class\conditional-logic-class\obj\Debug\net10.0\refint\conditional-logic-class.dll
+D:\DotNetCore\conditional-logic-class\conditional-logic-class\obj\Debug\net10.0\conditional-logic-class.pdb
+D:\DotNetCore\conditional-logic-class\conditional-logic-class\obj\Debug\net10.0\conditional-logic-class.genruntimeconfig.cache
+D:\DotNetCore\conditional-logic-class\conditional-logic-class\obj\Debug\net10.0\ref\conditional-logic-class.dll

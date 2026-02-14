@@ -1,0 +1,15 @@
+D:\DotNetCore\list-class\list-class\bin\Debug\net10.0\list-class.exe
+D:\DotNetCore\list-class\list-class\bin\Debug\net10.0\list-class.deps.json
+D:\DotNetCore\list-class\list-class\bin\Debug\net10.0\list-class.runtimeconfig.json
+D:\DotNetCore\list-class\list-class\bin\Debug\net10.0\list-class.dll
+D:\DotNetCore\list-class\list-class\bin\Debug\net10.0\list-class.pdb
+D:\DotNetCore\list-class\list-class\obj\Debug\net10.0\list-class.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCore\list-class\list-class\obj\Debug\net10.0\list-class.AssemblyInfoInputs.cache
+D:\DotNetCore\list-class\list-class\obj\Debug\net10.0\list-class.AssemblyInfo.cs
+D:\DotNetCore\list-class\list-class\obj\Debug\net10.0\list-class.csproj.CoreCompileInputs.cache
+D:\DotNetCore\list-class\list-class\obj\Debug\net10.0\list-class.sourcelink.json
+D:\DotNetCore\list-class\list-class\obj\Debug\net10.0\list-class.dll
+D:\DotNetCore\list-class\list-class\obj\Debug\net10.0\refint\list-class.dll
+D:\DotNetCore\list-class\list-class\obj\Debug\net10.0\list-class.pdb
+D:\DotNetCore\list-class\list-class\obj\Debug\net10.0\list-class.genruntimeconfig.cache
+D:\DotNetCore\list-class\list-class\obj\Debug\net10.0\ref\list-class.dll
